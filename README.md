@@ -1,16 +1,128 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/hello.gif" width="30px"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aman+Tyagi....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Software+Developer;Java+%7C+Spring+Boot;Angular+%7C+JavaScript;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
-<!--
-**amantyagi9/amantyagi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/code.gif" width="600" height="300"/>
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding" width="250" src="https://github.com/amantyagi27/amantyagi27/blob/main/img/ts.png">
+
+- 🔭 A **Full-Stack Developer** from India
+- 🌱 Currently mastering **Microservices** and **Cloud Technologies**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Java, Spring Boot, Angular**
+- ⚡ Fast learner and eager to explore new technologies.
+
+<br clear="both"/>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Backend Technologies
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"/>
+
+### Frontend Technologies
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+### Database & Tools
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+
+</div>
+
+
+
+## 🏆 Featured Projects
+
+<div align="center">
+  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/2.gif" width="500"/>
+</div>
+
+
+<div align="center">
+  
+| 🚀 Project | 🛠️ Tech Stack | ⭐ Features |
+|:---:|:---:|:---:|
+| **💼 Enterprise Customer Management System** | `Java` `Spring Boot` `Hibernate` `Angular` `MySQL` | Authentication, CRUD Operations, Advanced Search |
+| **🛒 E-Commerce Microservices Platform** | `Java` `Spring Boot` `Hibernate` `Angular` `PostgreSQL` | Microservices, Payment Gateway, Order Management |
+| **📈 Real-Time Analytics Dashboard** | `Java` `Spring Boot` `Angular` `WebSocket` `MySQL` | Real-time Data, Interactive Charts, Export Tools |
+
+</div>
+
+
+
+
+
+## 🤝 Open Source Contributions
+
+<div align="center">
+  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/4.gif" width="350"/>
+</div>
+
+- 🌟 **Spring Boot Community**: Bug fixes and feature enhancements
+- 🎯 **Angular Components**: Reusable UI components for developers
+- 📚 **Documentation**: Technical guides and API documentation
+- 👥 **Mentoring**: Guided 5+ junior developers
+
+
+
+## 🌱 Currently Learning
+
+
+- 🐳 **Docker & Kubernetes**
+- ☁️ **AWS Cloud Services**
+- 🔧 **DevOps & CI/CD**
+- 📱 **Progressive Web Apps**
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/6.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
+<br>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[your-username])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email])
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://[your-portfolio])
+
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+
+---
+
+<div align="center">
+  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/7.gif" width="70"/> 
+  <b>Happy Coding!</b>
+  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/7.gif" width="70"/>
+</div>
+
+
+
