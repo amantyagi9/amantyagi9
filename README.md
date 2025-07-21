@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/hello.gif" width="30px"/>
+  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/hello.gif" width="30px"/>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aman+Tyagi....;Nice+to+meet+you!&center=true&size=30">
@@ -10,12 +10,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/code.gif" width="600" height="300"/>
+  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/code.gif" width="600" height="300"/>
 </div>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="250" src="https://github.com/amantyagi27/amantyagi27/blob/main/img/ts.png">
+<img align="right" alt="Coding" width="250" src="https://github.com/amantyagi9/amantyagi9/blob/main/img/ts.png">
 
 - 🔭 A **Full-Stack Developer** from India
 - 🌱 Currently mastering **Microservices** and **Cloud Technologies**
@@ -55,7 +55,7 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/2.gif" width="500"/>
+  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/2.gif" width="500"/>
 </div>
 
 
@@ -76,7 +76,7 @@
 ## 🤝 Open Source Contributions
 
 <div align="center">
-  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/4.gif" width="350"/>
+  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/4.gif" width="350"/>
 </div>
 
 - 🌟 **Spring Boot Community**: Bug fixes and feature enhancements
@@ -97,7 +97,7 @@
 ## 📫 Let's Connect!
 
 <div align="center">
-  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/6.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/6.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
 <br>
 <div align="center">
@@ -119,9 +119,9 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/7.gif" width="70"/> 
+  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/7.gif" width="70"/> 
   <b>Happy Coding!</b>
-  <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/7.gif" width="70"/>
+  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/7.gif" width="70"/>
 </div>
 
 
