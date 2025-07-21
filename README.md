@@ -118,11 +118,17 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/7.gif" width="70"/> 
-  <b>Happy Coding!</b>
-  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/7.gif" width="70"/>
-</div>
 
+<div align="center">
+  
+###  Happy Coding! 
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="400"/>
+
+**Thanks for visiting my profile! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
 
 
