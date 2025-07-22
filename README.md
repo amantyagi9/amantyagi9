@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/hello.gif" width="30px"/>
 <h1 align="center">
@@ -123,7 +125,7 @@
   
 ###  Happy Coding! 
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="400"/>
+<img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/8.gif" width="400"/>
 
 **Thanks for visiting my profile! 🚀**
 
