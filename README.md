@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="250" src="https://github.com/amantyagi9/amantyagi9/blob/main/img/ts.png">
+<img align="right" alt="Coding" width="250" src="https://github.com/amantyagi9/amantyagi9/blob/main/img/ts.png"> <br>
 
 - 🔭 **Software Developer** | Specializing in Java + Spring Boot + Angular ecosystem
 - 🌱 Currently mastering **Microservices** and **Cloud Technologies**
