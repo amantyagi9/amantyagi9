@@ -99,15 +99,29 @@
 ## 📫 Let's Connect!
 
 <div align="center">
-  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/6.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
-<br>
-<div align="center">
+
+<img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/6.gif" width="200"/>
+
+
+### **Always excited to discuss:**
+
+🏗️ **Scalable Web Apps** • 🔧 **RESTful APIs** • 🎨 **Modern UI/UX** • 🚀 **Enterprise Applications**
+
+
+
+### **Find Me Here:**
+
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[your-username])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email])
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://[your-portfolio])
+
+### **Open For:**
+💼 **Full-Stack Development** •🔌 **API Development** • 👀 **Code Reviews** • 📚 **Knowledge Sharing** 
+
+**Let's build something amazing together!** 🚀
+
 
 </div>
 
