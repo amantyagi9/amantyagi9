@@ -118,7 +118,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://[your-portfolio])
 
 ### **Open For:**
-💼 **Full-Stack Development** •🔌 **API Development** • 👀 **Code Reviews** • 📚 **Knowledge Sharing** 
+✅ **Full-Stack Development** • ✅ **API Development** • ✅ **Code Reviews** • ✅ **Knowledge Sharing** 
 
 **Let's build something amazing together!** 🚀
 
