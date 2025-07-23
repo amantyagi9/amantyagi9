@@ -1,6 +1,10 @@
 
 
 
+
+
+
+
 <div align="center">
   <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/hello.gif" width="30px"/>
 <h1 align="center">
@@ -20,7 +24,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://github.com/amantyagi9/amantyagi9/blob/main/img/ts.png">
 
-- 🔭 A **Full-Stack Developer** from India
+- 🔭 **Software Developer** | Specializing in Java + Spring Boot + Angular ecosystem
 - 🌱 Currently mastering **Microservices** and **Cloud Technologies**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Spring Boot, Angular**
