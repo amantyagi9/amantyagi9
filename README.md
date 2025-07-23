@@ -103,9 +103,7 @@
 <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/6.gif" width="200"/>
 
 
-### **Always excited to discuss:**
 
-🏗️ **Scalable Web Apps** • 🔧 **RESTful APIs** • 🎨 **Modern UI/UX** • 🚀 **Enterprise Applications**
 
 
 
@@ -117,8 +115,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email])
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://[your-portfolio])
 
-### **Open For:**
-✅ **Full-Stack Development** • ✅ **API Development** • ✅ **Code Reviews** • ✅ **Knowledge Sharing** 
+### **Always excited to discuss:**
+
+🏗️ **Scalable Web Apps** • 🔧 **RESTful APIs** • 🎨 **Modern UI/UX** • 🚀 **Enterprise Applications**
 
 **Let's build something amazing together!** 🚀
 
