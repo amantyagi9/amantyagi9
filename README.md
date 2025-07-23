@@ -74,6 +74,51 @@
 
 
 
+## 🏆 Featured Projects
+
+<div align="center">
+  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/2.gif" width="500"/>
+</div>
+
+### 💼 Enterprise Customer Management System
+**Tech Stack:** `Java` • `Spring Boot` • `Hibernate` • `Angular` • `MySQL`
+
+**Key Features:**
+- 🔐 Secure Authentication System
+- 📝 Complete CRUD Operations
+- 🔍 Advanced Search Functionality
+
+[![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/project-repo)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-green?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
+
+---
+
+### 🛒 E-Commerce Microservices Platform
+**Tech Stack:** `Java` • `Spring Boot` • `Hibernate` • `Angular` • `PostgreSQL`
+
+**Key Features:**
+- 🏗️ Scalable Microservices Architecture
+- 💳 Integrated Payment Gateway
+- 📦 Complete Order Management System
+
+[![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/project-repo)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-green?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
+
+---
+
+### 📈 Real-Time Analytics Dashboard
+**Tech Stack:** `Java` • `Spring Boot` • `Angular` • `WebSocket` • `MySQL`
+
+**Key Features:**
+- ⚡ Real-time Data Processing
+- 📊 Interactive Charts & Visualizations
+- 📤 Advanced Export Tools
+
+[![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/project-repo)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-green?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
+
+
+
 
 ## 🤝 Open Source Contributions
 
