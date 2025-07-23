@@ -69,10 +69,12 @@
 <div align="center">
   
 | 🚀 Project | 🛠️ Tech Stack | ⭐ Features |
-|:---:|:---:|:---:|
-| **💼 Enterprise Customer Management System** | `Java` `Spring Boot` `Hibernate` `Angular` `MySQL` | Authentication, CRUD Operations, Advanced Search |
-| **🛒 E-Commerce Microservices Platform** | `Java` `Spring Boot` `Hibernate` `Angular` `PostgreSQL` | Microservices, Payment Gateway, Order Management |
-| **📈 Real-Time Analytics Dashboard** | `Java` `Spring Boot` `Angular` `WebSocket` `MySQL` | Real-time Data, Interactive Charts, Export Tools |
+|:---|:---|:---|
+| **💼 Customer Management System** | `Java` `Spring Boot` `Angular` `MySQL` `Bootstrap` | User Registration, Contact Management, Search & Filter, Data Export |
+| **🛒 E-Commerce Platform** | `Java` `Spring Boot` `Angular` `PostgreSQL` `REST APIs` | Product Catalog, Shopping Cart, User Authentication, Order History |
+| **📋 Task Management App** | `Java` `Spring Boot` `Angular` `MySQL` `Bootstrap` | Create Tasks, Status Tracking, Priority Levels, Due Date Reminders |
+
+
 
 </div>
 
