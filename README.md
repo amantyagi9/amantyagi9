@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/code.gif" width="600" height="300"/>
+  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/code.gif" width="600" height="250"/>
 </div>
 
 ## 🚀 About Me
@@ -78,7 +78,7 @@
 ## 🤝 Open Source Contributions
 
 <div align="center">
-  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/4.gif" width="350"/>
+  <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/4.gif" width="250"/>
 </div>
 
 - 🌟 **Spring Boot Community**: Bug fixes and feature enhancements
