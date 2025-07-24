@@ -3,8 +3,6 @@
 
 
 
-
-
 <div align="center">
   <img src="https://github.com/amantyagi9/amantyagi9/blob/main/img/hello.gif" width="30px"/>
 <h1 align="center">
